@@ -6,6 +6,17 @@ A fully custom, modular, and scalable **node-based pipeline builder**, engineere
 This project demonstrates complete end-to-end architecture across **frontend**, **backend**, **UI/UX**, and **graph logic**
 
 ---
+## 📷 Demo
+
+Here’s what the pipeline builder app looks like:  
+
+![Pipeline Editor Screenshot](frontend/public/pb1.png)
+![Pipeline Editor Screenshot](frontend/public/pb2.png)
+![Pipeline Editor Screenshot](frontend/public/pb3.png)
+![Pipeline Editor Screenshot](frontend/public/pb4.png)
+![Pipeline Editor Screenshot](frontend/public/pb5.png)
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -117,12 +128,4 @@ uvicorn main:app --reload
 └── utils/
 ```
 
-## 📷 Application snapshots
 
-Here’s what the pipeline builder app looks like:  
-
-![Pipeline Editor Screenshot](frontend/public/pb1.png)
-![Pipeline Editor Screenshot](frontend/public/pb2.png)
-![Pipeline Editor Screenshot](frontend/public/pb3.png)
-![Pipeline Editor Screenshot](frontend/public/pb4.png)
-![Pipeline Editor Screenshot](frontend/public/pb5.png)
